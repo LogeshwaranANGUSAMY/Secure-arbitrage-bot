@@ -1,7 +1,14 @@
-# Sample Hardhat 3 Beta Project (minimal)
+# Secure Arbitrage Bot
 
-This project has a minimal setup of Hardhat 3 Beta, without any plugins.
+This project is a Hardhat-based smart contract project deployed on Sepolia.
+
+## Features
+- Solidity contracts
+- Hardhat configuration
+- Deployment script
+- Sepolia network support
 
 ## What's included?
-
-The project includes native support for TypeScript, Hardhat scripts, tasks, and support for Solidity compilation and tests.
+- TypeScript support
+- Hardhat scripts & tasks
+- Solidity compilation and tests

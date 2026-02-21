@@ -1,0 +1,12 @@
+{
+  "name": "secure-arbitrage-bot",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "@nomicfoundation/hardhat-verify": "^2.1.3",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "dotenv": "^16.6.1",
+    "ethers": "^5.8.0",
+    "hardhat": "^2.22.2"
+  }
+}

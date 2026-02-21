@@ -35,6 +35,19 @@ This project demonstrates:
 
 ## ⚙️ Project Setup
 
+📈 Future Improvements
+
+- Add real arbitrage logic
+
+- Integrate DEX price feeds
+
+- Add slippage protection
+
+- Implement flash loan mechanism
+
+- Gas optimization
+
+
 👨‍💻 Author
 
 Logeshwaran Angusamy

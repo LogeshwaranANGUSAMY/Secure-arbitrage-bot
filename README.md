@@ -35,6 +35,12 @@ This project demonstrates:
 
 ## ⚙️ Project Setup
 
+👨‍💻 Author
+
+Logeshwaran Angusamy
+Master of Cybersecurity Studies
+Blockchain & Smart Contract Security Enthusiast
+
 ### 1️⃣ Clone Repository
 
 ```bash
